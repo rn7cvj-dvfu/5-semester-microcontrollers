@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "esp_common.h": "c",
+        "uart.h": "c",
+        "task.h": "c",
+        "init.h": "c",
+        "gpio.h": "c",
+        "pwm.h": "c",
+        "blinker.h": "c",
+        "button.h": "c"
+    },
+}
